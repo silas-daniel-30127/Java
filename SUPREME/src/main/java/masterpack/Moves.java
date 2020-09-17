@@ -1,0 +1,5 @@
+package masterpack;
+
+public enum Moves {
+    LEFT, RIGHT, UP, DOWN
+}
